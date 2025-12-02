@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Tax Center Myfile'
+project = 'Tax Center Appears'
 copyright = '2025'
 author = 'Kevin Appel'
 
@@ -21,3 +21,4 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
